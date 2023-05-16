@@ -1,2 +1,2 @@
-# pong
-Pong
+# pongtwo
+Jogo pong no JavaScript
